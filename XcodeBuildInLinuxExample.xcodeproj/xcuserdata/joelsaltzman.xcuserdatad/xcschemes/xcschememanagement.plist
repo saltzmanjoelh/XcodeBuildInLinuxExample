@@ -4,10 +4,10 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>PreBuild.xcscheme</key>
+		<key>LinuxBuild.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<key>XcodeBuildInLinuxExample.xcscheme_^#shared#^_</key>
 		<dict>
@@ -17,12 +17,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>384765FD1DC560CB00865148</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>3895F2AE1D9B8BAE0021F0F5</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>3895F2BB1D9C11B90021F0F5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3895F2D41D9C13020021F0F5</key>
 		<dict>
 			<key>primary</key>
 			<true/>

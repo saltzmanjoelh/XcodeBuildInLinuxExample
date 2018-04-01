@@ -1,0 +1,58 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FE59D6AA0173E597707050CF37B706D90264EB94",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CC44E33EA6CC3EFEBF6B368ED3CE3029579354F5" : 9223372036854775807,
+    "0F7D5BBEF9D6E958D4C4AF4992E7F4951DD56098" : 9223372036854775807,
+    "BFE10827E65A85152FA06B4CF740BEA79F236E37" : 9223372036854775807,
+    "A4CF843211A6CB07022610207717040189D54B41" : 9223372036854775807,
+    "9B66EE7A12363EA34E5DDC9A663437971E55A547" : 9223372036854775807,
+    "FE59D6AA0173E597707050CF37B706D90264EB94" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6D224514-74B5-4BDB-86FD-1151719846F7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CC44E33EA6CC3EFEBF6B368ED3CE3029579354F5" : "XcodeBuildInLinuxExample\/Packages\/HelloSwift-1.0.1\/",
+    "0F7D5BBEF9D6E958D4C4AF4992E7F4951DD56098" : "XcodeBuildInLinuxExample\/Packages\/DockerProcess-1.0.8\/",
+    "BFE10827E65A85152FA06B4CF740BEA79F236E37" : "XcodeBuildInLinuxExample\/Packages\/CliRunnable-1.0.10\/",
+    "A4CF843211A6CB07022610207717040189D54B41" : "XcodeBuildInLinuxExample\/Packages\/XcodeHelper-1.0.8\/",
+    "9B66EE7A12363EA34E5DDC9A663437971E55A547" : "XcodeBuildInLinuxExample\/Packages\/Hello-1.0.3\/",
+    "FE59D6AA0173E597707050CF37B706D90264EB94" : "XcodeBuildInLinuxExample\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XcodeBuildInLinuxExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XcodeBuildInLinuxExample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saltzmanjoelh\/DockerProcess.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0F7D5BBEF9D6E958D4C4AF4992E7F4951DD56098"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saltzmanjoelh\/Hello.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9B66EE7A12363EA34E5DDC9A663437971E55A547"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saltzmanjoelh\/XcodeHelper.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A4CF843211A6CB07022610207717040189D54B41"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saltzmanjoelh\/CliRunnable.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BFE10827E65A85152FA06B4CF740BEA79F236E37"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saltzmanjoelh\/HelloSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC44E33EA6CC3EFEBF6B368ED3CE3029579354F5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saltzmanjoelh\/XcodeBuildInLinuxExample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FE59D6AA0173E597707050CF37B706D90264EB94"
+    }
+  ]
+}

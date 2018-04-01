@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3895F2BB1D9C11B90021F0F5"
-               BuildableName = "PreBuild"
-               BlueprintName = "PreBuild"
+               BlueprintIdentifier = "384765FD1DC560CB00865148"
+               BuildableName = "LinuxBuild"
+               BlueprintName = "LinuxBuild"
                ReferencedContainer = "container:XcodeBuildInLinuxExample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3895F2BB1D9C11B90021F0F5"
-            BuildableName = "PreBuild"
-            BlueprintName = "PreBuild"
+            BlueprintIdentifier = "384765FD1DC560CB00865148"
+            BuildableName = "LinuxBuild"
+            BlueprintName = "LinuxBuild"
             ReferencedContainer = "container:XcodeBuildInLinuxExample.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3895F2BB1D9C11B90021F0F5"
-            BuildableName = "PreBuild"
-            BlueprintName = "PreBuild"
+            BlueprintIdentifier = "384765FD1DC560CB00865148"
+            BuildableName = "LinuxBuild"
+            BlueprintName = "LinuxBuild"
             ReferencedContainer = "container:XcodeBuildInLinuxExample.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
